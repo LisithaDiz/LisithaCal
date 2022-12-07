@@ -6,7 +6,7 @@ public class Octal123 {
         System.out.print("Enter Oct: ");
         int x = input5.nextInt();
         String d=String.format("%d",x);   //O to D
-Math.m
+
         if(d.contains("9")||d.contains("8")){
             System.out.println("Number you enter is not an Octal");
         }

@@ -66,4 +66,5 @@ public class Decimal123 {
         System.out.print("\n");
         return;
     }
+
 }
